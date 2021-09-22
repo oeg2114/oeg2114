@@ -1,5 +1,7 @@
 ### Hi fellow programmers 👋
 
+I am a nerdy programmer who likes to keep his repositories private because of terrible coding habits ^^
+
 - Real name: Jasper
 
 <!--
